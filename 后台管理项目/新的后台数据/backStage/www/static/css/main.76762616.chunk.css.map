@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAU,CACV,eAAgB,CAChB,eACJ","file":"main.76762616.chunk.css","sourcesContent":["*{\r\n    margin: 0;\r\n    padding: 0;\r\n    list-style: none;\r\n    font-size: 0.4rem;\r\n}"]}

@@ -1,0 +1,12 @@
+1：启动项目前npm i下载依赖包，然后在后台数据库，在umall-api输入npm satrt启动
+2：启动失败，数据库新建usmall数据库 然后导入数据--> umall-api -->导入usmall.sql文件
+3：再次启动后台数据库，在umall-api输入npm satrt启动
+
+4：进入HTGL启动项目输入cmd进入窗口，然后输入npm start启动项目
+5：启动成功后打开给的网址查看项目，例如：
+Your application is running here: http://localhost:8080
+
+6：账号名称：admin 密码：123
+
+7：如果node-models报错就删了，然后npm i 或者cnpm i重新下载
+注意:在数据库的config里面的global里面查看数据库相关信息
